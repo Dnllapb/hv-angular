@@ -1,0 +1,53 @@
+
+.div_header
+{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 20px auto;
+ 
+}
+.logo_ada
+{
+    width: 60px;
+    height: auto;
+}
+.logos{
+    width: 50px;
+    height: auto;
+    margin: auto;
+    
+}
+body{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    flex-direction: column;
+    width: 90%;
+}
+#foto{
+    border-radius: 50%; 
+    height: 300px; 
+    width: 300px;
+    margin-top: 20px;
+}
+.info_about{
+    font-size: 30px;
+    margin-top: 50px;
+    text-align: center;
+    background-color: aquamarine;
+    width: 80%;
+    margin: auto;
+}
+.profile{
+    font-size: 30px;
+    text-align: center;
+}
+.details{
+    font-size: 30px;
+    text-align: center;
+  
+}
+footer{
+    position: relative;
+}
